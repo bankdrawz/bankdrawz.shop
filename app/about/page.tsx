@@ -34,7 +34,7 @@ export default function AboutPage() {
               <div className="space-y-4 text-muted-foreground">
                 <p>
                   Hello! I'm Miguel, also known as{' '}
-                  <span className="text-primary font-medium">cptcr</span> online. I'm a 20-year-old
+                  <span className="text-primary font-medium">bankdrawz</span> online. I'm a 20-year-old
                   backend developer living in the United States.
                 </p>
                 <p>
@@ -57,7 +57,7 @@ export default function AboutPage() {
             <div className="flex flex-col justify-start space-y-6">
               <div>
                 <h3 className="text-xl font-medium mb-2">Location</h3>
-                <p className="text-muted-foreground">Stuttgart, Germany</p>
+                <p className="text-muted-foreground">United States</p>
               </div>
 
               <div>
