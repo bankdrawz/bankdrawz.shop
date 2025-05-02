@@ -36,7 +36,7 @@ export default function Footer() {
           <div className="md:col-span-2">
             <Link href="/" className="inline-flex items-center space-x-2">
               <span className="text-xl font-bold font-heading text-primary">
-                cptcr<span className="text-white">.</span>
+                bankdrawz<span className="text-white">.</span>
               </span>
             </Link>
             <p className="mt-4 text-sm text-muted-foreground max-w-xs">
@@ -104,7 +104,7 @@ export default function Footer() {
         <div className="mt-12 pt-8 border-t border-border">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-sm text-muted-foreground order-2 md:order-1 mt-4 md:mt-0">
-              © {currentYear} Tony (cptcr). All rights reserved.
+              © {currentYear} Miguel (bankdrawz). All rights reserved.
             </p>
             <p className="text-sm text-muted-foreground flex items-center order-1 md:order-2">
               Built with <Heart className="h-4 w-4 mx-1 text-red-500" /> using Next.js, TypeScript &
