@@ -10,12 +10,12 @@ import { Button } from '@/components/ui/button';
 const SOCIAL_LINKS = [
   {
     name: 'GitHub',
-    href: 'https://github.com/cptcr',
+    href: 'https://github.com/secretfrr',
     icon: Github,
   },
   {
     name: 'Twitter',
-    href: 'https://twitter.com/cptcrr',
+    href: 'https://twitter.com/bankdrawz',
     icon: Twitter,
   },
 ];
