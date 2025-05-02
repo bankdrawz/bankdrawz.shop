@@ -4,7 +4,7 @@ import { NextResponse } from 'next/server';
 export async function GET() {
   try {
     // Get Discord user ID from environment variable
-    const DISCORD_USER_ID = process.env.DISCORD_USER_ID || '931870926797160538';
+    const DISCORD_USER_ID = process.env.DISCORD_USER_ID || '375931932036431873
 
     // Get Discord bot token from environment variable
     const DISCORD_BOT_TOKEN = process.env.DISCORD_BOT_TOKEN;
