@@ -55,7 +55,7 @@ export default function Header() {
         {/* Logo */}
         <Link href="/" className="flex items-center space-x-2">
           <span className="text-xl font-bold font-heading text-primary">
-            cptcr<span className="text-white">.</span>
+            bankdrawz<span className="text-white">.</span>
           </span>
         </Link>
 
