@@ -3,7 +3,7 @@ import ProjectList from '@/components/projects/project-list';
 import GithubActivity from '@/components/projects/github-activity';
 
 export const metadata: Metadata = {
-  title: 'Projects | Tony (cptcr)',
+  title: 'Projects | Miguel (bankdrawz)',
   description:
     "Explore Tony's projects including the Nexus Discord Bot, macro_api library, and other backend development work.",
 };
@@ -41,7 +41,7 @@ export default function ProjectsPage() {
             <p className="text-center text-muted-foreground mb-8">
               Real-time updates from my GitHub repositories, pulled directly from the GitHub API.
             </p>
-            <GithubActivity username="cptcr" />
+            <GithubActivity username="bankdrawz" />
           </div>
         </div>
       </section>
