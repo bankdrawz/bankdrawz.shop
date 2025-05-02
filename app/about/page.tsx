@@ -4,9 +4,9 @@ import Timeline from '@/components/about/timeline';
 import GithubContributions from '@/components/about/github-contributions';
 
 export const metadata: Metadata = {
-  title: 'About | Tony (cptcr)',
+  title: 'About | Miguel (bankdrawz)',
   description:
-    'Learn more about Tony, a 17-year-old backend developer from Stuttgart, Germany specializing in Next.js, TypeScript, and TailwindCSS.',
+    'Learn more about Miguel, a 20-year-old backend developer from the United States specializing in Next.js, TypeScript, and TailwindCSS.',
 };
 
 export default function AboutPage() {
