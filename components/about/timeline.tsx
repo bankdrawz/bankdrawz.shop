@@ -12,7 +12,7 @@ type TimelineEvent = {
 
 const TIMELINE_EVENTS: TimelineEvent[] = [
   {
-    year: '2007',
+    year: '2004',
     title: 'Birth',
     description: 'Another shitty developer was born (like the world doesnt have enough already)',
   },
