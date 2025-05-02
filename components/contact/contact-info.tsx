@@ -19,7 +19,7 @@ export default function ContactInfo() {
               href="mailto:contact@bankdrawz.dev"
               className="text-muted-foreground hover:text-primary transition-colors"
             >
-              contact@cptcr.dev
+              contact@bankdrawz.dev
             </Link>
           </div>
         </div>
