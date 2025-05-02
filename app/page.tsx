@@ -30,7 +30,7 @@ export default function HomePage() {
         <div className="container px-4 relative z-20">
           <div className="flex flex-col items-center text-center max-w-3xl mx-auto space-y-8">
             <h1 className="text-4xl md:text-6xl font-bold text-foreground animate-in fade-in slide-in-from-bottom-4 duration-700">
-              Hey, I'm <span className="text-primary">Tony</span>
+              Hey, I'm <span className="text-primary">Miguel</span>
             </h1>
 
             <p className="text-xl md:text-2xl text-foreground/80 max-w-2xl animate-in fade-in slide-in-from-bottom-5 duration-700 delay-100">
@@ -90,7 +90,7 @@ export default function HomePage() {
             <div className="order-2 md:order-1">
               <h2 className="text-3xl md:text-4xl font-bold mb-6">About Me</h2>
               <p className="text-muted-foreground mb-6">
-                I'm a 17-year-old backend developer based near Stuttgart, Germany. I've been
+                I'm a 20-year-old backend developer based in the United States. I've been
                 programming since I was 14, and I've developed a strong passion for creating
                 efficient, scalable solutions using modern technologies.
               </p>
