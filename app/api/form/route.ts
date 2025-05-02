@@ -53,7 +53,7 @@ export async function POST(request: NextRequest) {
     }
 
     const message: EmailMessage = {
-      from: `"Tony's Portfolio" <${emailUser}>`,
+      from: `"Miguel's Portfolio" <${emailUser}>`,
       to: emailAddress,
       replyTo: formData.email,
       subject: `[Portfolio Contact] ${formData.subject}`,
