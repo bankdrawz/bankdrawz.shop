@@ -34,7 +34,7 @@ export default function HomePage() {
             </h1>
 
             <p className="text-xl md:text-2xl text-foreground/80 max-w-2xl animate-in fade-in slide-in-from-bottom-5 duration-700 delay-100">
-              A 17-year-old backend developer passionate about creating efficient, scalable
+              A 20-year-old backend developer passionate about creating efficient, scalable
               applications with <span className="text-primary">Node.js</span>,
               <span className="text-secondary"> TypeScript</span>, and
               <span className="text-accent"> Express</span>.
