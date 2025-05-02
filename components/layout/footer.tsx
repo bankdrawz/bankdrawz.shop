@@ -15,12 +15,12 @@ const NAVIGATION_ITEMS = [
 const SOCIAL_LINKS = [
   {
     name: 'GitHub',
-    href: 'https://github.com/cptcr',
+    href: 'https://github.com/secretfrr',
     icon: Github,
   },
   {
     name: 'Twitter',
-    href: 'https://twitter.com/cptcr',
+    href: 'https://twitter.com/bankdrawz',
     icon: Twitter,
   },
 ];
@@ -40,7 +40,7 @@ export default function Footer() {
               </span>
             </Link>
             <p className="mt-4 text-sm text-muted-foreground max-w-xs">
-              17-year-old backend developer from Stuttgart, Germany. Specializing in Next.js,
+              20-year-old backend developer from the United States. Specializing in Next.js,
               TypeScript, and TailwindCSS.
             </p>
             <div className="flex mt-6 space-x-4">
@@ -82,10 +82,10 @@ export default function Footer() {
             <ul className="mt-4 space-y-2">
               <li>
                 <Link
-                  href="mailto:contact@cptcr.dev"
+                  href="mailto:contact@bankdrawz.dev"
                   className="text-sm text-muted-foreground hover:text-primary transition-colors"
                 >
-                  contact@cptcr.dev
+                  contact@bankdrawz.dev
                 </Link>
               </li>
               <li>
