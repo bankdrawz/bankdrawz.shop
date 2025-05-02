@@ -35,11 +35,11 @@ const fontMono = FontMono({
 // SEO metadata
 export const metadata: Metadata = {
   title: {
-    default: 'Tony (cptcr) | Backend Developer',
-    template: '%s | Tony (cptcr)',
+    default: 'Miguel (bankdrawz) | Backend Developer',
+    template: '%s | Miguel (bankdrawz)',
   },
   description:
-    '17-year-old backend developer specializing in Next.js, TypeScript, and TailwindCSS.',
+    '20-year-old backend developer specializing in Next.js, TypeScript, and TailwindCSS.',
   keywords: [
     'developer',
     'backend',
@@ -49,22 +49,22 @@ export const metadata: Metadata = {
     'Stuttgart',
     'Germany',
   ],
-  authors: [{ name: 'Tony', url: 'https://github.com/cptcr' }],
-  creator: 'Tony (cptcr)',
+  authors: [{ name: 'Miguel', url: 'https://github.com/secretfrr' }],
+  creator: 'Miguel (bankdrawz)',
   openGraph: {
     type: 'website',
     locale: 'en_US',
     url: 'https://cptcr.dev',
-    title: 'Tony (cptcr) | Backend Developer',
+    title: 'Miguel (bankdrawz) | Backend Developer',
     description:
-      '17-year-old backend developer specializing in Next.js, TypeScript, and TailwindCSS.',
-    siteName: 'Tony (cptcr) | Backend Developer',
+      '20-year-old backend developer specializing in Next.js, TypeScript, and TailwindCSS.',
+    siteName: 'Miguel (bankdrawz) | Backend Developer',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Tony (cptcr) | Backend Developer',
+    title: 'Miguel (bankdraws) | Backend Developer',
     description:
-      '17-year-old backend developer specializing in Next.js, TypeScript, and TailwindCSS.',
+      '20-year-old backend developer specializing in Next.js, TypeScript, and TailwindCSS.',
   },
   icons: {
     icon: '/favicon.ico',
