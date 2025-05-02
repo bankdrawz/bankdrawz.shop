@@ -29,7 +29,7 @@ export default function ContactInfo() {
           <MapPin className="h-5 w-5 text-primary mr-3" />
           <div>
             <h3 className="text-sm font-medium">Location</h3>
-            <p className="text-muted-foreground">Stuttgart, Germany</p>
+            <p className="text-muted-foreground">United States</p>
           </div>
         </div>
 
