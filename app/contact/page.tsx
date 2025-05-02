@@ -45,7 +45,7 @@ async function fetchDiscordStatus() {
 export const metadata: Metadata = {
   title: 'Contact | Miguel (bankdrawz)',
   description:
-    'Get in touch with Tony, a 20-year-old backend developer from the United States specializing in Next.js, TypeScript, and TailwindCSS.',
+    'Get in touch with Miguel, a 20-year-old backend developer from the United States specializing in Next.js, TypeScript, and TailwindCSS.',
 };
 
 export default async function ContactPage() {
