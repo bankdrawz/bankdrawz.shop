@@ -5,7 +5,7 @@ import GithubActivity from '@/components/projects/github-activity';
 export const metadata: Metadata = {
   title: 'Projects | Miguel (bankdrawz)',
   description:
-    "Explore Tony's projects including the Nexus Discord Bot, macro_api library, and other backend development work.",
+    "Explore Miguel's projects including the Nexus Discord Bot, macro_api library, and other backend development work.",
 };
 
 export default function ProjectsPage() {
