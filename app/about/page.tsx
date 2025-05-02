@@ -18,7 +18,7 @@ export default function AboutPage() {
           <div className="max-w-4xl mx-auto">
             <h1 className="text-4xl md:text-5xl font-bold mb-6">About Me</h1>
             <p className="text-xl text-muted-foreground">
-              A passionate backend developer from Stuttgart, Germany, focused on creating efficient,
+              A passionate backend developer from the United States, focused on creating efficient,
               scalable applications and contributing to the developer community.
             </p>
           </div>
@@ -33,9 +33,9 @@ export default function AboutPage() {
               <h2 className="text-2xl font-bold mb-4">Who I Am</h2>
               <div className="space-y-4 text-muted-foreground">
                 <p>
-                  Hello! I'm Tony, also known as{' '}
-                  <span className="text-primary font-medium">cptcr</span> online. I'm a 17-year-old
-                  backend developer living near Stuttgart, Germany.
+                  Hello! I'm Miguel, also known as{' '}
+                  <span className="text-primary font-medium">cptcr</span> online. I'm a 20-year-old
+                  backend developer living in the United States.
                 </p>
                 <p>
                   My journey in programming began when I was 14, starting with simple HTML and CSS
@@ -63,8 +63,8 @@ export default function AboutPage() {
               <div>
                 <h3 className="text-xl font-medium mb-2">Languages</h3>
                 <ul className="text-muted-foreground">
-                  <li>German (Native)</li>
-                  <li>English (Fluent)</li>
+                  <li>English (Native)</li>
+                  <li>Spanish (Fluent)</li>
                 </ul>
               </div>
 
@@ -109,7 +109,7 @@ export default function AboutPage() {
             <p className="text-center text-muted-foreground mb-8">
               My real-time GitHub contributions and activity, pulled directly from the GitHub API.
             </p>
-            <GithubContributions username="cptcr" />
+            <GithubContributions username="bankdrawz" />
           </div>
         </div>
       </section>
