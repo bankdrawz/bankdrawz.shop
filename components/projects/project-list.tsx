@@ -39,7 +39,7 @@ const PROJECT_BASE_DATA: ProjectBase[] = [
   
   {
     id: 'portfolio',
-    title: 'Next.js Portfolio',
+    title: 'Bankdrawz Portfolio',
     description: 'Built with Next 15, React 19 and much much love.',
     tags: ['Next.js 15', 'TypeScript', 'TailwindCSS', 'React 19', 'ShadCN UI'],
     githubUrl: 'https://github.com/secretfrr/bankdrawz.shop',
