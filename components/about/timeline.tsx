@@ -54,9 +54,9 @@ const TIMELINE_EVENTS: TimelineEvent[] = [
   },
   {
     year: '2025',
-    title: 'Project Launches & Portfolio',
+    title: 'Project Portfolio',
     description:
-      'Successfully launched the Macro_API NPM package, providing a solution for streamlined API interactions. Also launched my personal portfolio website to showcase my skills and projects.',
+      'Successfully launched my personal portfolio website to showcase my skills and projects.',
   },
 ];
 
