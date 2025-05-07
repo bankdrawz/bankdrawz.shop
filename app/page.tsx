@@ -50,6 +50,10 @@ export default function HomePage() {
               <Button asChild variant="outline" size="lg" className="rounded-full">
                 <Link href="/contact">Contact Me</Link>
               </Button>
+        
+            <Button asChild varient="outline" size="lg" className="rounded-full">
+            <Link href="/donate">Donate Me</Link>
+            </Button>
             </div>
 
             {/* Quote of the Day */}
