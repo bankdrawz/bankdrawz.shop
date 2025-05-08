@@ -37,7 +37,7 @@ interface ProjectWithStats extends Project {
 const PROJECTS: Project[] = [
   {
     id: 'portfolio',
-    title: 'Next.js Portfolio',
+    title: ' Bankdrawz Portfolio',
     description: '',
     tags: ['Next.js 15', 'TypeScript', 'TailwindCSS', 'React 19', 'ShadCN UI'],
     githubUrl: 'https://github.com/secretfrr/bankdrawz.shop',
