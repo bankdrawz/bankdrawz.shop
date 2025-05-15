@@ -47,7 +47,7 @@ Ensure the following are installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/cptcr/next.js_portfolio.git
+   git clone https://github.com/secretfrr/next.js_portfolio.git
    cd next.js_portfolio
    ```
 
