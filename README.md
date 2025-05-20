@@ -221,6 +221,12 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=secretfrr/bankdrawz.shop&type=Date)](https://www.star-history.com/#secretfrr/bankdrawz.shop&Date)
+<a href="https://www.star-history.com/#secretfrr/bankdrawz.shop&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=secretfrr/bankdrawz.shop&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=secretfrr/bankdrawz.shop&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=secretfrr/bankdrawz.shop&type=Date" />
+ </picture>
+</a>
 
 Created by [bankdrawz](https://github.com/secretfrr)
