@@ -219,4 +219,8 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ---
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=secretfrr/bankdrawz.shop&type=Date)](https://www.star-history.com/#secretfrr/bankdrawz.shop&Date)
+
 Created by [bankdrawz](https://github.com/secretfrr)
