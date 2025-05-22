@@ -47,6 +47,19 @@ const PROJECT_BASE_DATA: ProjectBase[] = [
     repoName: 'secretfrr/bankdrawz.shop',
     techStack: ['TypeScript', 'Next.JS', 'TailwindCSS', 'React'],
   },
+  {
+    id: 'Bank Panel',
+    title: 'bankpanel',
+    description:
+      'A modern, web-based process manager for PM2.',
+    longDescription:
+      'A modern, web-based process manager for PM2. It provides an elegant and user-friendly interface to manage your PM2 processes, monitor system resources, and handle user access control.',
+    tags: ['ProcessManager', 'PM2', 'Framework'],
+    techStack: ['Javascript', 'HTML', 'CSS'],
+    githubUrl: 'https://github.com/secretfrr/bankpanel',
+    repoName: 'secretfrr/bankpanel',
+    featured: true,
+  },
 ];
 
 // Filter options for projects
