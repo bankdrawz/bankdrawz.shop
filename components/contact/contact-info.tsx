@@ -16,10 +16,10 @@ export default function ContactInfo() {
           <div>
             <h3 className="text-sm font-medium">Email</h3>
             <Link
-              href="mailto:contact@bankdrawz.dev"
+              href="mailto:smpt@bankdrawz.shop"
               className="text-muted-foreground hover:text-primary transition-colors"
             >
-              contact@bankdrawz.dev
+              contact@bankdrawz.shop
             </Link>
           </div>
         </div>
@@ -38,14 +38,14 @@ export default function ContactInfo() {
           <h3 className="text-sm font-medium mb-3">Connect With Me</h3>
           <div className="flex flex-wrap gap-2">
             <Button asChild variant="outline" size="sm" className="gap-2">
-              <Link href="https://github.com/cptcr" target="_blank" rel="noopener noreferrer">
+              <Link href="https://github.com/secretfrr" target="_blank" rel="noopener noreferrer">
                 <Github className="h-4 w-4" />
                 GitHub
               </Link>
             </Button>
 
             <Button asChild variant="outline" size="sm" className="gap-2">
-              <Link href="https://twitter.com/bankdraws" target="_blank" rel="noopener noreferrer">
+              <Link href="https://twitter.com/@bankdraws" target="_blank" rel="noopener noreferrer">
                 <Twitter className="h-4 w-4" />
                 Twitter
               </Link>
