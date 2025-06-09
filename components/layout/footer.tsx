@@ -15,12 +15,12 @@ const NAVIGATION_ITEMS = [
 const SOCIAL_LINKS = [
   {
     name: 'GitHub',
-    href: 'https://github.com/secretfrr',
+    href: 'https://github.com/bankdrawz',
     icon: Github,
   },
   {
     name: 'Twitter',
-    href: 'https://twitter.com/bankdrawz',
+    href: 'https://x.com/@bankdrawz',
     icon: Twitter,
   },
 ];
@@ -99,6 +99,9 @@ export default function Footer() {
             </ul>
           </div>
         </div>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9010466969298452"
+     crossorigin="anonymous"></script>
 
         {/* Copyright */}
         <div className="mt-12 pt-8 border-t border-border">
